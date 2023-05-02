@@ -29,4 +29,13 @@ COUNTRY = "de"
 
 Save the script and run it. 
 
-python3 
+python3 crawler.py
+
+After some seconds the script starts and crawl all IP ranges of the county. After completion you can find a .txt file in the folder of the script and use it for other things ;-)
+
+
+
+
+Join our Pentesting Discord Server: 
+
+https://discord.gg/qeTtcB7U
